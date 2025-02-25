@@ -1,0 +1,3 @@
+[submodule "magento-v2"]
+	path = magento-v2
+	url = https://github.com/upnance/magento-v2.git
