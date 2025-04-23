@@ -1,3 +1,9 @@
 [submodule "magento-v2"]
 	path = magento-v2
 	url = https://github.com/upnance/magento-v2.git
+[submodule "integrations"]
+	path = integrations
+	url = git@github.com:upnance/integrations.git
+[submodule "woocommerce-upnance"]
+	path = woocommerce-upnance
+	url = git@github.com:upnance/woocommerce-upnance.git
