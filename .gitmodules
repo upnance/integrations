@@ -7,3 +7,6 @@
 [submodule "woocommerce-upnance"]
 	path = woocommerce-upnance
 	url = git@github.com:upnance/woocommerce-upnance.git
+[submodule "medusa-payment-upnance"]
+	path = medusa-payment-upnance
+	url = git@github.com:upnance/medusa-payment-upnance.git
